@@ -9,9 +9,9 @@ const Footer = () => {
             <h5>About Us</h5>
             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sit amet nulla auctor, vestibulum magna sed, convallis ex.</p>
             <ul className="social-links">
-              <li><a href="www.facebook.com" target="_blank" rel="noopener noreferrer"><i className="fa fa-facebook" /></a></li>
-              <li><a href="www.x.com" target="_blank" rel="noopener noreferrer"><i className="fa fa-twitter" /></a></li>
-              <li><a href="www.instagram.com" target="_blank" rel="noopener noreferrer"><i className="fa fa-instagram" /></a></li>
+              <li><a href="https://github.com/Amaan-Parvaiz-Rather" target="_blank" rel="noopener noreferrer"><i class="fa-brands fa-github"></i></a></li>
+              <li><a href="https://discord.com/Amaan%20Parvaiz%20Rather" target="_blank" rel="noopener noreferrer"><i class="fa-brands fa-discord"></i></a></li>
+              <li><a href="https://www.linkedin.com/in/amaan-rather-6aba39290/" target="_blank" rel="noopener noreferrer"><i class="fa-brands fa-linkedin-in"></i></a></li>
             </ul>
           </div>
           <div className="col-md-4">
